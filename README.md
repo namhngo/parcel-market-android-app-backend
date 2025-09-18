@@ -75,11 +75,4 @@ Notes:
 - Many controllers inherit from a generic `ApiControllerBase<TEntity>`, so adding new entities typically requires: model, DbSet in `DomainDbContext`, and a controller that extends `ApiControllerBase<YourEntity>`.
 - EF Core migrations can be added/managed from the `Gis.API` project using the `dotnet ef` tooling.
 
-## License & attribution
-
-Add your license file (for example `LICENSE.md`) before publishing to GitHub. If this code is based on or integrates third-party components, keep their licenses in mind.
-
-## Summary for GitHub post (short blurb)
-
-ASP.NET Core 5 Web API for municipal GIS and land records. Provides REST endpoints for parcels, cases, user accounts, notifications (SignalR), JWT auth, and Swagger documentation. Configurable for PostgreSQL or Oracle and includes background jobs, file serving, and health checks.
 
