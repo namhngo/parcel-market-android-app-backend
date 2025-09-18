@@ -1,0 +1,12 @@
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Core\bin\Release\net5.0\Gis.Core.deps.json
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Core\bin\Release\net5.0\Gis.Core.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Core\bin\Release\net5.0\Gis.Core.pdb
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Core\obj\Release\net5.0\Gis.Core.csproj.AssemblyReference.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Core\obj\Release\net5.0\Gis.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Core\obj\Release\net5.0\Gis.Core.AssemblyInfoInputs.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Core\obj\Release\net5.0\Gis.Core.AssemblyInfo.cs
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Core\obj\Release\net5.0\Gis.Core.csproj.CoreCompileInputs.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Core\obj\Release\net5.0\Gis.Core.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Core\obj\Release\net5.0\refint\Gis.Core.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Core\obj\Release\net5.0\Gis.Core.pdb
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Core\obj\Release\net5.0\ref\Gis.Core.dll

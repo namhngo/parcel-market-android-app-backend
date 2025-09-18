@@ -1,0 +1,12 @@
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Infrastructure\bin\Release\net5.0\Gis.InfraCore.deps.json
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Infrastructure\bin\Release\net5.0\Gis.InfraCore.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Infrastructure\bin\Release\net5.0\Gis.InfraCore.pdb
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Infrastructure\obj\Release\net5.0\Gis.InfraCore.csproj.AssemblyReference.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Infrastructure\obj\Release\net5.0\Gis.InfraCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Infrastructure\obj\Release\net5.0\Gis.InfraCore.AssemblyInfoInputs.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Infrastructure\obj\Release\net5.0\Gis.InfraCore.AssemblyInfo.cs
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Infrastructure\obj\Release\net5.0\Gis.InfraCore.csproj.CoreCompileInputs.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Infrastructure\obj\Release\net5.0\Gis.InfraCore.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Infrastructure\obj\Release\net5.0\refint\Gis.InfraCore.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Infrastructure\obj\Release\net5.0\Gis.InfraCore.pdb
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.Infrastructure\obj\Release\net5.0\ref\Gis.InfraCore.dll

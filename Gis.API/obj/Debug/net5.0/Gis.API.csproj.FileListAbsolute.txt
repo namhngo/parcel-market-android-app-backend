@@ -1,0 +1,780 @@
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\appsettings.Development.json
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\appsettings.json
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.exe
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.deps.json
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.runtimeconfig.json
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.runtimeconfig.dev.json
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.pdb
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.SqlServer.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.UI.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.UI.Client.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.UI.Core.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.UI.InMemory.Storage.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\AutoMapper.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Azure.Core.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Azure.Identity.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\EPPlus.Core.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ExcelDataReader.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ExcelDataReader.DataSet.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\FacebookCore.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Fractions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Google.Apis.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Google.Apis.Auth.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Google.Apis.Core.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Humanizer.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\KubernetesClient.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\MailKit.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.DynamicLinq.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\MimeKit.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\NETCore.MailKit.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Npgsql.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Rest.Net.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Enrichers.Environment.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Exceptions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.DirectoryServices.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Security.AccessControl.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\YamlDotNet.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Gis.Core.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Gis.InfraCore.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Gis.Core.pdb
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\bin\Debug\net5.0\Gis.InfraCore.pdb
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.csproj.AssemblyReference.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.AssemblyInfoInputs.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.AssemblyInfo.cs
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.csproj.CoreCompileInputs.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.MvcApplicationPartsAssemblyInfo.cs
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.MvcApplicationPartsAssemblyInfo.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\scopedcss\bundle\Gis.API.styles.css
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\Gis.API.StaticWebAssets.Manifest.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.RazorTargetAssemblyInfo.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.csproj.CopyComplete
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\refint\Gis.API.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.pdb
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.genruntimeconfig.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\ref\Gis.API.dll
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\Gis.API.StaticWebAssets.Pack.cache
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\msbuild.Gis.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Gis.API.props
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Gis.API.props
+D:\LCSGroup\Gis\vhbao\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Gis.API.props
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\appsettings.Development.json
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\appsettings.json
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.exe
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.deps.json
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.runtimeconfig.json
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.runtimeconfig.dev.json
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.pdb
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.SqlServer.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.UI.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.UI.Client.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.UI.Core.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.UI.InMemory.Storage.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\AutoMapper.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Azure.Core.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Azure.Identity.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\EPPlus.Core.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ExcelDataReader.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ExcelDataReader.DataSet.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\FacebookCore.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Fractions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Google.Apis.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Google.Apis.Auth.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Google.Apis.Core.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Humanizer.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\KubernetesClient.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\MailKit.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.DynamicLinq.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\MimeKit.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\NETCore.MailKit.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Npgsql.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Rest.Net.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Enrichers.Environment.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Exceptions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.DirectoryServices.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Security.AccessControl.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\YamlDotNet.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.Core.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.InfraCore.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.Core.pdb
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.InfraCore.pdb
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.csproj.AssemblyReference.cache
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.AssemblyInfoInputs.cache
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.AssemblyInfo.cs
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.csproj.CoreCompileInputs.cache
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.MvcApplicationPartsAssemblyInfo.cs
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.MvcApplicationPartsAssemblyInfo.cache
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\scopedcss\bundle\Gis.API.styles.css
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\Gis.API.StaticWebAssets.Manifest.cache
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\Gis.API.StaticWebAssets.Pack.cache
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\msbuild.Gis.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Gis.API.props
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Gis.API.props
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Gis.API.props
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.RazorTargetAssemblyInfo.cache
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.csproj.CopyComplete
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\refint\Gis.API.dll
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.pdb
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.genruntimeconfig.cache
+D:\TT-NMC\Quản lý giao việc\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\ref\Gis.API.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\appsettings.json
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.exe
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.deps.json
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.runtimeconfig.json
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.runtimeconfig.dev.json
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.API.pdb
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.SqlServer.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.UI.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.UI.Client.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.UI.Core.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\HealthChecks.UI.InMemory.Storage.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\AutoMapper.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Azure.Core.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Azure.Identity.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\EPPlus.Core.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ExcelDataReader.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ExcelDataReader.DataSet.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\FacebookCore.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Fractions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Google.Apis.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Google.Apis.Auth.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Google.Apis.Core.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Humanizer.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\KubernetesClient.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\MailKit.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.DynamicLinq.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\MimeKit.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\NETCore.MailKit.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Npgsql.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Rest.Net.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Enrichers.Environment.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Exceptions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.DirectoryServices.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Security.AccessControl.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\YamlDotNet.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.Core.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.InfraCore.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.Core.pdb
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\bin\Debug\net5.0\Gis.InfraCore.pdb
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.csproj.AssemblyReference.cache
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.AssemblyInfoInputs.cache
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.AssemblyInfo.cs
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.csproj.CoreCompileInputs.cache
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\scopedcss\bundle\Gis.API.styles.css
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\Gis.API.StaticWebAssets.Manifest.cache
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\Gis.API.StaticWebAssets.Pack.cache
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\msbuild.Gis.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Gis.API.props
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Gis.API.props
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Gis.API.props
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.RazorTargetAssemblyInfo.cache
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.csproj.CopyComplete
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\refint\Gis.API.dll
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.pdb
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\Gis.API.genruntimeconfig.cache
+D:\Project\TTNMC\Dự án QLCV\GisAPI\Gis.API\obj\Debug\net5.0\ref\Gis.API.dll

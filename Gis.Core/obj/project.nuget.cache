@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "up49aGzcRSBQDjjRB+CEVUQ9tJKJf7ZhBRGWDA0+yIlKHWm/81LXg/vfJW2h3Kqr0am/yhWDCUEjXEiLnUsP0g==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\TTNMC\\Dự án QLCV\\GisAPI\\Gis.Core\\Gis.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
